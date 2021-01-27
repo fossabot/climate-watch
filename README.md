@@ -1,4 +1,6 @@
 # Climate Watch
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftonylow%2Fclimate-watch.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftonylow%2Fclimate-watch?ref=badge_shield)
+
 
 Table of Contents:
 
@@ -308,3 +310,7 @@ npx release 'major' | 'minor' | 'patch'
 ```
 
 and push to master!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftonylow%2Fclimate-watch.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftonylow%2Fclimate-watch?ref=badge_large)
